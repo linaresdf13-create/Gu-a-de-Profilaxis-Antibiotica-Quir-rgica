@@ -1,0 +1,5 @@
+{
+  "name": "Guía de Profilaxis Antibiótica Quirúrgica",
+  "description": "Una aplicación de soporte a la decisión clínica para guiar la selección del antibiótico profiláctico adecuado antes de un procedimiento quirúrgico, basada en las guías institucionales del programa PROA.",
+  "requestFramePermissions": []
+}
